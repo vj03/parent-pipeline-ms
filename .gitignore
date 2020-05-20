@@ -1,0 +1,7 @@
+# editors
+.vscode/
+*.sw[o-z]
+
+# python3
+__pycache__/
+venv/
